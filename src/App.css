@@ -47,3 +47,17 @@
 .has-error {
   color: rgb(179, 7, 7);
 }
+
+.recipient-message-box {
+  background: aliceblue;
+  padding: 10px;
+  max-width: 40%;
+  border-radius: 0px 20px;
+}
+
+.sender-message-box {
+  background: rgb(238, 232, 234);
+  padding: 10px;
+  max-width: 40%;
+  border-radius: 20px 0px;
+}

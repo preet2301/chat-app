@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `cd chat-app`
+### Go into the Project Directory.
 ### `npm i`
 ### `npm start`
 
